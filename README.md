@@ -13,10 +13,6 @@
     <img align="center" alt="Leandro-Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
 </div>
 
-
-
-🔭 I’m currently working on: [Invoincing](https://github.com/leandrochomp/Invoicing)
-
 <!--
 **leandrochomp/leandrochomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
