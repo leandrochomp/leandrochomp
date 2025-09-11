@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there 👋, I'm Leandro <br><br>👨‍💻 Code by day, 🥋 roll by night, 👨‍👦 dad in between<br>🟪⬛⬜⬜⬜⬜⬛🟪 purple belt 4 stripes jiu-jitsu<br>📚 Currently reading: "Soft Skills: The Software Developer's Life Manual 2th Ed, Simple Programmer" <br><br>### 🎓 Certifications  <br><br>![AWS](https://skillicons.dev/icons?i=aws)  <br>- [.NET Workloads on AWS Lambda](https://www.credly.com/badges/8d8013cc-f7d7-401f-8ffc-e3f67e92ce44/public_url) ✅<br>- [AWS Certified Cloud Practitioner] ❌ (2020–2024)  <br>- [AWS Certified Solutions Architect – Associate] ❌ (2021–2024)  <br><br>
+Hi there 👋, I'm Leandro <br><br>👨‍💻 Code by day, 🥋 roll by night, 👨‍👦 dad in between<br>🟪⬛⬜⬜⬜⬜⬛🟪 purple belt 4 stripes jiu-jitsu<br>📚 Currently reading: "Soft Skills: The Software Developer's Life Manual 2th Ed, Simple Programmer"
+
+### 🎓 Certifications  <br><br>![AWS](https://skillicons.dev/icons?i=aws)  <br>- [.NET Workloads on AWS Lambda](https://www.credly.com/badges/8d8013cc-f7d7-401f-8ffc-e3f67e92ce44/public_url) ✅<br>- [AWS Certified Cloud Practitioner] ❌ (2020–2024)  <br>- [AWS Certified Solutions Architect – Associate] ❌ (2021–2024)  <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nascimentoleandro)
